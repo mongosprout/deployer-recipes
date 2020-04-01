@@ -1,0 +1,15 @@
+{
+    "name": "mongosprout/deployer-recipes",
+    "description": "Extended core recipes atbp.",
+    "type": "composer-plugin",
+    "require": {
+        "deployer/deployer": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Paul Adrian Montaño",
+            "email": "paul@abovethefray.io"
+        }
+    ],
+    "minimum-stability": "dev"
+}
