@@ -1,7 +1,7 @@
 {
     "name": "mongosprout/deployer-recipes",
     "description": "Extended core recipes atbp.",
-    "type": "composer-plugin",
+    "license": "MIT",
     "authors": [
         {
             "name": "Paul Adrian Montaño",
