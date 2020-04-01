@@ -11,5 +11,5 @@
             "email": "paul@abovethefray.io"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev-master"
 }
